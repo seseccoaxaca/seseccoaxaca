@@ -5,7 +5,7 @@
   - 🌐 [Página Oficial](http://www.sesecc.oaxaca.gob.mx)
   - 🌐 [Plataforma Digital Estatal](https://plataforma-digital-estatal.vercel.app)
   - 📹 [YouTube](https://www.youtube.com/channel/UCGPW2yCI5ZtIbG08g28785g/videos)
-  - 📸 [FaceBook](https://www.facebook.com/SESECCOaxaca/)
+  - 👥 [FaceBook](https://www.facebook.com/SESECCOaxaca/)
   - 🐦 [Twitter](https://twitter.com/SESECCOaxaca)
   - 📸 [Instagram](https://www.instagram.com/seseccoaxaca/?hl=es)
 <!---
