@@ -1,4 +1,4 @@
-- 👋 Somos la @seseccoaxaca, Buscamos Proponer, ofrecer y promover políticas integrales, indicadores y mecanismos en materia de prevención, control y seguimiento de hechos de corrupción y faltas administrativas, coordinadamente con la comisión ejecutiva y el comité coordinador a fin de conseguir su efectiva disuasión, logrando la integridad y el comportamiento ético de los servidores públicos. 
+- 👋 Somos la @seseccoaxaca, Buscamos Proponer, ofrecer y promover políticas integrales, indicadores y mecanismos en materia de prevención, control y seguimiento de hechos de corrupción y faltas administrativas, coordinadamente con la comisión ejecutiva y el comité coordinador a fin de conseguir su efectiva disuasión, logrando la integridad y el comportamiento ético de los servidores públicos.  
 - 📫 Contáctanos a traves de:
   - 🌐 [Página Oficial](http://www.sesecc.oaxaca.gob.mx)
   - 🌐 [Plataforma Digital Estatal](https://plataforma-digital-estatal.vercel.app)
